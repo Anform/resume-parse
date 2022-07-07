@@ -1,0 +1,18 @@
+.instructions{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.head{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.userInt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
